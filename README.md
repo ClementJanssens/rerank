@@ -4,7 +4,7 @@
 
 ### AI-Powered SEO Article Generator
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -136,8 +136,8 @@ graph LR
 
 ### Frontend
 
--   **[Next.js 16](https://nextjs.org/)** - React framework with App Router
--   **[React 19](https://react.dev/)** - UI library
+-   **[Next.js 15](https://nextjs.org/)** - React framework with App Router
+-   **[React 18](https://react.dev/)** - UI library
 -   **[TypeScript](https://www.typescriptlang.org/)** - Type safety
 -   **[Tailwind CSS 4](https://tailwindcss.com/)** - Utility-first styling
 -   **[shadcn/ui](https://ui.shadcn.com/)** - Component library
