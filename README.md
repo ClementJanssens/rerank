@@ -17,7 +17,7 @@ Generate SEO-optimized articles in minutes using advanced AI workflows
 ### Powered by
 
 <a href="https://retalk.bot">
-  <img src="https://xohnubyicmktldyrhmmv.supabase.co/storage/v1/object/public/assets/logo-full.png" alt="Retalk" width="200"/>
+  <img src="https://xohnubyicmktldyrhmmv.supabase.co/storage/v1/object/public/assets/rerank.png" alt="Retalk" height="300"/>
 </a>
 
 ---
