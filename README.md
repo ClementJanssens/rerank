@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Rerank
+# Rerank
 
 ### AI-Powered SEO Article Generator
 
@@ -10,7 +10,7 @@
 
 Generate SEO-optimized articles in minutes using advanced AI workflows
 
-[Features](#-features) • [Getting Started](#-getting-started) • [How It Works](#-how-it-works) • [Tech Stack](#-tech-stack)
+[Features](#features) • [Getting Started](#getting-started) • [How It Works](#how-it-works) • [Tech Stack](#tech-stack)
 
 ---
 
@@ -24,22 +24,22 @@ Generate SEO-optimized articles in minutes using advanced AI workflows
 
 </div>
 
-## ✨ Features
+## Features
 
-### 🔍 **Intelligent SERP Analysis**
+### **Intelligent SERP Analysis**
 
 -   Automatically analyzes top-ranking competitors for your target keyword
 -   Scrapes and extracts content structure from top 5 search results
 -   Generates comprehensive content plans based on competitor analysis
 
-### 📝 **Multi-Stage Content Generation**
+### **Multi-Stage Content Generation**
 
 -   **Base Article**: AI-generated long-form content using Claude Sonnet
 -   **SEO Optimization**: Automatic keyword density and placement optimization
 -   **Introduction Enhancement**: Compelling, conversion-focused introductions
 -   **Statistics Integration**: Real-time stats insertion via Perplexity API
 
-### 🌐 **Advanced SEO Features**
+### **Advanced SEO Features**
 
 -   ✅ Automatic internal linking via sitemap parsing
 -   ✅ Meta description and title tag generation
@@ -47,7 +47,7 @@ Generate SEO-optimized articles in minutes using advanced AI workflows
 -   ✅ Multi-language support (French/English)
 -   ✅ Search intent targeting (informational, commercial, transactional, navigational)
 
-### 🎨 **Modern UI/UX**
+### **Modern UI/UX**
 
 -   Real-time progress tracking with 15 workflow stages
 -   Dark mode support
@@ -55,7 +55,7 @@ Generate SEO-optimized articles in minutes using advanced AI workflows
 -   Sitemap validation with instant feedback
 -   Article library with markdown preview
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ Open [http://localhost:3000](http://localhost:3000) to access the app.
 
 ### Configuration
 
-1. Click the **Settings** button (⚙️) in the top right
+1. Click the **Settings** button in the top right
 2. Enter your API keys:
     - **Anthropic API Key**
     - **Firecrawl API Key**
@@ -92,7 +92,7 @@ Open [http://localhost:3000](http://localhost:3000) to access the app.
 
 API keys are stored locally in your browser's localStorage.
 
-## 💡 How It Works
+## How It Works
 
 Rerank uses a sophisticated 15-stage AI workflow:
 
@@ -132,7 +132,7 @@ graph LR
 14. **Statistics Insertion** - Integrate stats into content
 15. **Metadata Generation** - Create SEO meta tags
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -155,7 +155,7 @@ graph LR
 -   **[ESLint](https://eslint.org/)** - Code linting
 -   **[Prettier](https://prettier.io/)** - Code formatting
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 rerank/
@@ -185,18 +185,18 @@ rerank/
 └── public/                    # Static assets
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
 -   **Content Marketers**: Generate SEO-optimized blog posts at scale
 -   **SEO Agencies**: Produce client content with competitive analysis
 -   **Bloggers**: Create data-driven articles with proper optimization
 -   **E-commerce**: Generate product category pages with internal linking
 
-## 🔒 Privacy
+## Privacy
 
 All API keys are stored locally in your browser. No data is sent to external servers except the required API providers (Anthropic, Firecrawl, Perplexity).
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -214,13 +214,13 @@ git push origin feature/amazing-feature
 # Open a Pull Request
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
--   Built with ❤️ by the [Retalk](https://retalk.bot) team
+-   Built by the [Retalk](https://retalk.bot) team
 -   Powered by Anthropic's Claude AI
 -   Web scraping by Firecrawl
 -   Real-time data by Perplexity
@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/yourusername/rerank)** if you find it useful!
+**[Star this repo](https://github.com/yourusername/rerank)** if you find it useful!
 
 <br/>
 
@@ -237,6 +237,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://xohnubyicmktldyrhmmv.supabase.co/storage/v1/object/public/assets/logo-full.png" alt="Retalk" width="180"/>
 </a>
 
-<p><i>Made with 🚀 by <a href="https://retalk.bot">Retalk</a></i></p>
+<p><i>Made by <a href="https://retalk.bot">Retalk</a></i></p>
 
 </div>
